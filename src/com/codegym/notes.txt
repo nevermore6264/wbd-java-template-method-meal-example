@@ -1,0 +1,11 @@
+- Chuẩn hóa bộ khung của thuật toán trong một phương thức của lớp cơ sở (template)
+
+- Triển khai cụ thể của các bước riêng lẻ giống nhau được thực hiện trong lớp cơ sở.
+
+- Các bước cần triển khai khác biệt được khai báo (giữ chỗ) trong lớp cơ sở.
+
+- Các lớp kế thừa có thể ghi đè các phương thức “giữ chỗ” trong lớp cơ sở.
+
+- Các lớp kế thừa có thể ghi đè các phương thức đã triển khai trong lớp cơ sở.
+
+- Các lớp kế thừa có thể ghi đè và “gọi ngược lại” các phương thức trong lớp cơ sở.
